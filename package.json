@@ -1,0 +1,15 @@
+{
+  "name": "portflow",
+  "version": "1.0.0",
+  "description": "Linux Port Monitor with Corporate Dystopia Cyberpunk Theme",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": ["port", "monitor", "linux", "network", "electron"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^40.1.0"
+  }
+}
